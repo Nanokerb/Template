@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "Nanokerb.temporial.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "temporial.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
