@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 500,
+  "experience": 3.5,
+  "group": "tungsten",
+  "ingredient": {
+    "item": "temporial:raw_tungsten"
+  },
+  "result": "temporial:tungsten"
+}

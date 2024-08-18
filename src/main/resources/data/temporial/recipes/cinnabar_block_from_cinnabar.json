@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item":"temporial:cinnabar"
+    }
+  },
+  "result":{
+    "item": "temporial:cinnabar_block"
+  }
+}

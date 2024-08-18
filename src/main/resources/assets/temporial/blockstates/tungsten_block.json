@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":"temporial:block/tungsten_block"
+    }
+  }
+}

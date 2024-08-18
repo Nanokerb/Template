@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "temporial:tungsten_block"
+
+    }
+  ],
+  "result": {
+    "item": "temporial:tungsten",
+    "count": 9
+  }
+}
